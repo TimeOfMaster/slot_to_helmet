@@ -1,0 +1,1 @@
+scoreboard objectives add helmet_swap_success dummy
