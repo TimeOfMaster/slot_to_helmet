@@ -1,1 +1,2 @@
 scoreboard objectives add helmet_swap_success dummy
+scoreboard objectives add slot_to_helmet trigger
